@@ -51,7 +51,7 @@ Below is a video demonstrating one of the exercises where I implemented a simple
 </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0"> 
-        {% include video.liquid path="/assets/video/flocking_application.mov" class="img-fluid rounded z-depth-1" autoplay=true controls=false max-width="300px" %}
+        {% include video.liquid path="/assets/video/flocking_application.mov" class="img-fluid rounded z-depth-1" autoplay=false controls=true max-width="300px" %}
     </div>
 </div>
 </details>
@@ -70,7 +70,7 @@ You can check out the <a href="https://github.com/LabChameleon/SimplePong">GitHu
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include video.liquid loading="eager" path="/assets/video/pong_application.mp4" class="img-fluid rounded z-depth-1" autoplay=true controls=false max-width="640px"%}
+        {% include video.liquid loading="eager" path="/assets/video/pong_application.mp4" class="img-fluid rounded z-depth-1" autoplay=false controls=true max-width="640px" %}
     </div>
 </div>
 </details>
@@ -87,7 +87,7 @@ You can find the GitHub repository <a href="https://github.com/LabChameleon/Fire
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include video.liquid loading="eager" path="/assets/video/fire_particle_system.mp4" class="vid-fluid rounded z-depth-1" autoplay=true controls=false max-width="300px" %}
+        {% include video.liquid loading="eager" path="/assets/video/fire_particle_system.mp4" class="img-fluid rounded z-depth-1" autoplay=false controls=true max-width="300px" %}
     </div>
 </div>
 </details>
@@ -109,7 +109,7 @@ You can find the code <a href="https://github.com/LabChameleon/RigidBodySimulati
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include video.liquid loading="eager" path="/assets/video/rigid_body_simulation.mp4" class="vid-fluid rounded z-depth-1" autoplay=true controls=false max-width="640px" %}
+        {% include video.liquid loading="eager" path="/assets/video/rigid_body_simulation.mp4" class="img-fluid rounded z-depth-1" autoplay=false controls=true max-width="640px" %}
     </div>
 </div>
 </details>
