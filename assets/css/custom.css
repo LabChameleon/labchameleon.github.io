@@ -1,0 +1,18 @@
+details {
+  margin-bottom: 1em;
+  padding: 0.5em;
+}
+
+summary {
+  font-size: 1.2em;
+  cursor: pointer;
+  color: #0076D6; /* You can adjust this to match your theme's color */
+}
+
+details[open] summary {
+  font-weight: bold;
+}
+
+details p {
+  padding: 0.5em;
+}
