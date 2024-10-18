@@ -35,7 +35,7 @@ You can find more details in our <a href="https://github.com/LabChameleon/Hungry
 </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0"> 
-        {% include figure.liquid loading="eager" path="/assets/img/hungry_geese.png" class="img-fluid rounded z-depth-1" max-width="70%" %}
+        {% include figure.liquid loading="eager" path="/assets/img/hungry_geese.png" class="img-fluid rounded z-depth-1" max-width="700px" %}
     </div>
 </div>
 </details>
@@ -70,7 +70,7 @@ You can check out the <a href="https://github.com/LabChameleon/SimplePong">GitHu
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include figure.liquid loading="eager" path="/assets/video/pong_application.mp4" class="vid-fluid rounded z-depth-1" max-width="70%" %}
+        {% include figure.liquid loading="eager" path="/assets/video/pong_application.mp4" class="vid-fluid rounded z-depth-1" max-width="700px" %}
     </div>
 </div>
 </details>
@@ -109,7 +109,7 @@ You can find the code <a href="https://github.com/LabChameleon/RigidBodySimulati
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include figure.liquid loading="eager" path="/assets/video/rigid_body_simulation.mp4" class="vid-fluid rounded z-depth-1" max-width="70%" %}
+        {% include figure.liquid loading="eager" path="/assets/video/rigid_body_simulation.mp4" class="vid-fluid rounded z-depth-1" max-width="700px" %}
     </div>
 </div>
 </details>
@@ -159,7 +159,7 @@ You can find the GitHub repository <a href="https://github.com/LabChameleon/Supr
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include figure.liquid loading="eager" path="/assets/img/supreme_risk_appilcation.jpg" class="img-fluid rounded z-depth-1" max-width="70%" %}
+        {% include figure.liquid loading="eager" path="/assets/img/supreme_risk_appilcation.jpg" class="img-fluid rounded z-depth-1" max-width="700px" %}
     </div>
 </div>
   <p>
@@ -226,7 +226,7 @@ Below is a preview of the application:
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include figure.liquid loading="eager" path="/assets/img/visual_sort_application.jpg" class="img-fluid rounded z-depth-1" max-width="70%" %}
+        {% include figure.liquid loading="eager" path="/assets/img/visual_sort_application.jpg" class="img-fluid rounded z-depth-1" max-width="700px" %}
     </div>
 </div>
   <p>
@@ -251,7 +251,7 @@ A preview of the application can be seen here:
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include figure.liquid loading="eager" path="/assets/img/quad_tree_application.jpg" class="img-fluid rounded z-depth-1" max-width="70%" %}
+        {% include figure.liquid loading="eager" path="/assets/img/quad_tree_application.jpg" class="img-fluid rounded z-depth-1" max-width="700px" %}
     </div>
 </div>
   <p>
@@ -272,7 +272,7 @@ The application then visualizes the intermediate steps of the GJK algorithm to c
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include figure.liquid loading="eager" path="/assets/img/gjk_application.jpg" class="img-fluid rounded z-depth-1" max-width="70%" %}
+        {% include figure.liquid loading="eager" path="/assets/img/gjk_application.jpg" class="img-fluid rounded z-depth-1" max-width="700px" %}
     </div>
 </div>
   <p>
