@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Here are some personal projects I’ve worked on over the years. While some of the older projects may not have the cleanest code, I’m still proud of all of them; especially the early ones, where I overcame the biggest challenges as a young beginner :). The projects are roughly in the order I completed them, though I’ve lost track of the exact years for some.  I hope to extend this list with more cool ideas soon.
+description: Here are some personal projects I’ve worked on over the years. While some of the older projects may not have the cleanest code, I’m still proud of all of them; especially the early ones, where I overcame the biggest challenges as a young beginner :). The projects are roughly in the order I completed them, though I’ve lost track of the exact years for some. Some of the project's interfaces are in German language. I hope to extend this list with more cool ideas soon.
 nav: true
 nav_order: 3
 display_categories:
