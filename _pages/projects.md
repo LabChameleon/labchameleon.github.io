@@ -87,7 +87,7 @@ You can find the GitHub repository <a href="https://github.com/LabChameleon/Fire
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include video.liquid loading="eager" path="/assets/video/fire_particle_system.mp4" class="img-fluid rounded z-depth-1" autoplay=false controls=true max-width="300px" %}
+        {% include video.liquid loading="eager" path="/assets/video/fire_particle_system.mp4" class="img-fluid rounded z-depth-1" autoplay=false controls="true" max-width="300px" %}
     </div>
 </div>
 </details>
