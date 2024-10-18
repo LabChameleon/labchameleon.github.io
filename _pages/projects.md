@@ -49,9 +49,9 @@ I worked through several of the exercises, and you can find my solutions in this
 <p>
 Below is a video demonstrating one of the exercises where I implemented a simple flocking model:
 </p>
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0"> 
-        {% include figure.liquid loading="eager" path="/assets/video/flocking_application.mov" class="img-fluid rounded z-depth-1" controls=false autoplay=false %}
+        {% include video.liquid path="/assets/video/flocking_application.mov" class="img-fluid rounded z-depth-1" autoplay=true controls=false max-width="300px" %}
     </div>
 </div>
 </details>
@@ -70,7 +70,7 @@ You can check out the <a href="https://github.com/LabChameleon/SimplePong">GitHu
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include figure.liquid loading="eager" path="/assets/video/pong_application.mp4" class="vid-fluid rounded z-depth-1" max-width="700px" %}
+        {% include video.liquid loading="eager" path="/assets/video/pong_application.mp4" class="img-fluid rounded z-depth-1" autoplay=true controls=false max-width="640px"%}
     </div>
 </div>
 </details>
@@ -87,7 +87,7 @@ You can find the GitHub repository <a href="https://github.com/LabChameleon/Fire
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include figure.liquid loading="eager" path="/assets/video/fire_particle_system.mp4" class="vid-fluid rounded z-depth-1" max-width="300px" %}
+        {% include video.liquid loading="eager" path="/assets/video/fire_particle_system.mp4" class="vid-fluid rounded z-depth-1" autoplay=true controls=false max-width="300px" %}
     </div>
 </div>
 </details>
@@ -109,7 +109,7 @@ You can find the code <a href="https://github.com/LabChameleon/RigidBodySimulati
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 
-        {% include figure.liquid loading="eager" path="/assets/video/rigid_body_simulation.mp4" class="vid-fluid rounded z-depth-1" max-width="700px" %}
+        {% include video.liquid loading="eager" path="/assets/video/rigid_body_simulation.mp4" class="vid-fluid rounded z-depth-1" autoplay=true controls=false max-width="640px" %}
     </div>
 </div>
 </details>
