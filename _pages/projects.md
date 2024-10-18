@@ -26,32 +26,34 @@ You can find the code in my <a href="https://github.com/LabChameleon/PPOScratch"
   <summary>Hungry Geese Kaggle Challenge Solution</summary>
 <p>
 During a university lab, I participated in the <a href="https://www.kaggle.com/c/hungry-geese/overview">Hungry Geese Kaggle Challenge</a> alongside three teammates.
-The goal was to train RL agents to compete in a multi-player variant of *Snake* against other participants' agents.
+The goal was to train RL agents to compete in a multi-player variant of <i>Snake</i> against other participants' agents.
 </p>
 <p>
 We built everything from scratch without using RL libraries, so we could fully understand the underlying algorithms.
 While this approach left us at a slight disadvantage compared to teams using more sophisticated libraries, it was a very cool experience.
 You can find more details in our <a href="https://github.com/LabChameleon/Hungry-Geese">GitHub repository</a>.
 </p>
-  <p align="center">
-    <img src="/assets/img/hungry_geese.png" width="640">
-  </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0"> 
+        {% include figure.liquid loading="eager" path="/assets/img/hungry_geese.png" class="img-fluid rounded z-depth-1" max-width="70%" %}
+    </div>
+</div>
 </details>
 
 <details>
   <summary>Heiko Hamann's "Swarm Intelligence" Book Solution</summary>
   <p>
-A while ago I read Professor Heiko Hamann's book *Swarm Intelligence*, which I found to be a very good read.
+A while ago I read Professor Heiko Hamann's book <i>Swarm Intelligence</i>, which I found to be a very good read.
 I worked through several of the exercises, and you can find my solutions in this <a href="https://github.com/LabChameleon/SwarmIntelligenceSolutions/tree/main">GitHub repository</a>.
 </p>
 <p>
 Below is a video demonstrating one of the exercises where I implemented a simple flocking model:
-  </p>
-  <p align="center">
-    <video width="400" controls>
-      <source src="/assets/video/flocking_application.mov" type="video/mp4">
-    </video>
-  </p>
+</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-1"> 
+        {% include figure.liquid loading="eager" path="/assets/video/flocking_application.mov" class="vid-fluid rounded z-depth-1" max-width="400px" %}
+    </div>
+</div>
 </details>
 
 <details>
@@ -66,11 +68,11 @@ Instead, it's deflected off the opponent’s goal and continues, which adds a fa
 The project is implemented in C++ using the SFML library.
 You can check out the <a href="https://github.com/LabChameleon/SimplePong">GitHub repository here</a>, and below is a little video showcasing the game:
   </p>
-  <p align="center">
-    <video width="640" controls>
-      <source src="/assets/video/pong_application.mp4" type="video/mp4">
-    </video>
-  </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-1"> 
+        {% include figure.liquid loading="eager" path="/assets/video/pong_application.mp4" class="vid-fluid rounded z-depth-1" max-width="70%" %}
+    </div>
+</div>
 </details>
 
 <details>
@@ -83,11 +85,11 @@ For simulating fire, I discovered that particle systems are a common solution.
 The project was implemented in C++ using the SFML library, and I gained valuable experience in programming shaders along the way.
 You can find the GitHub repository <a href="https://github.com/LabChameleon/FireParticleSystem/tree/main">here</a>, and below is a fire animation—though it may not look entirely realistic just yet. ;)
   </p>
-  <p align="center">
-    <video width="300" controls>
-      <source src="/assets/video/fire_particle_system.mp4" type="video/mp4">
-    </video>
-  </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-1"> 
+        {% include figure.liquid loading="eager" path="/assets/video/fire_particle_system.mp4" class="vid-fluid rounded z-depth-1" max-width="300px" %}
+    </div>
+</div>
 </details>
 
 <details>
@@ -105,11 +107,11 @@ The physics become much more complicated in this case.
 <p>
 You can find the code <a href="https://github.com/LabChameleon/RigidBodySimulation">here</a>, and below is a preview of the simulation in action.
   </p>
-  <p align="center">
-    <video width="640" controls>
-      <source src="/assets/video/rigid_body_simulation.m4v" type="video/mp4">
-    </video>
-  </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-1"> 
+        {% include figure.liquid loading="eager" path="/assets/video/rigid_body_simulation.mp4" class="vid-fluid rounded z-depth-1" max-width="70%" %}
+    </div>
+</div>
 </details>
 
 
@@ -126,7 +128,7 @@ You can find the code <a href="https://github.com/LabChameleon/ConwayGameOfLife"
 <details>
   <summary>German Computer Science Competition (2016)</summary>
   <p>
-I participated in the 34th *Bundeswettbewerb Informatik*, a nationwide computer science competition in Germany.
+I participated in the 34th <i>Bundeswettbewerb Informatik</i>, a nationwide computer science competition in Germany.
 The competition involved solving a series of exercises and submitting a final write-up of the solutions.
 I ranked in the top 5% of participants in the end.
 </p>
@@ -145,19 +147,21 @@ I initially began developing it in C++ with OpenGL to better understand the fund
 Later, I transitioned to Java once I had a clearer vision for the project.
 </p>
 <p>
-The game was designed to be a blend of two of my favorite strategy games: *Supreme Commander* and *Risk*.
-From *Supreme Commander*, I borrowed the large-scale zoom, unit types, and overall scale.
+The game was designed to be a blend of two of my favorite strategy games: <i>Supreme Commander</i> and <i>Risk</i>.
+From <i>Supreme Commander</i>, I borrowed the large-scale zoom, unit types, and overall scale.
 The twist in my game was that new units could only be produced by capturing squares on the game field and holding them exclusively for at least 30 seconds, after which a new unit would spawn.
-This mechanic gives credit to *Risk*, where new units spawn only in captured territory.
+This mechanic gives credit to <i>Risk</i>, where new units spawn only in captured territory.
 This could lead to rapidly escalating numbers of units, requiring significant tuning to keep the game running efficiently.
 In particular, I had to implement smart strategies for relocating units to avoid overlap.
 </p>
 <p>
 You can find the GitHub repository <a href="https://github.com/LabChameleon/SupremeRiskCommander">here</a>.
   </p>
-  <p align="center">
-    <img src="/assets/img/supreme_risk_appilcation.jpg" width="640">
-  </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-1"> 
+        {% include figure.liquid loading="eager" path="/assets/img/supreme_risk_appilcation.jpg" class="img-fluid rounded z-depth-1" max-width="70%" %}
+    </div>
+</div>
   <p>
 The light squares represent territory currently controlled by the player and are used to produce new units.
 The light dark green squares indicate contested territory, controlled by both the player and the enemy, making it unavailable for unit production.
@@ -173,7 +177,7 @@ I consider the AI future work ;)
 <details>
   <summary>Android Black Jack Application</summary>
   <p>
-Together with my Computer Science teacher, Susanne Terveer, I co-authored the iBook *"Die App Black Jack und der Android Stack."*
+Together with my Computer Science teacher, Susanne Terveer, I co-authored the iBook <i>Die App Black Jack und der Android Stack</i>.
 The book is designed to help students learn about basic data structures by guiding them through the hands-on process of developing an Android application for playing Black Jack.
 </p>
 <p>
@@ -184,9 +188,11 @@ The iBook can be found <a href="https://books.apple.com/de/book/der-adt-stack-un
 I contributed by helping to write the book and preparing many of the Android implementations.
 You can find the GitHub repository for the project <a href="https://github.com/LabChameleon/BlackJack_Android">here</a>.
   </p>
-  <p align="center">
-    <img src="/assets/img/black_jack_book.jpg" width="300">
-  </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-1"> 
+        {% include figure.liquid loading="eager" path="/assets/img/black_jack_book.jpg" class="img-fluid rounded z-depth-1" max-width="300px" %}
+    </div>
+</div>
 </details>
 
 <details>
@@ -199,10 +205,13 @@ It also involved plenty of confusing and painful hours spent digging through the
 </p>
 <p>
 You can check out the GitHub repository for this project <a href="https://github.com/LabChameleon/ArduinoProjectsBook_Assembler/tree/main">here</a>.
+Here is an image of one of the project's setups:
   </p>
-  <p align="center">
-    <img src="/assets/img/arduino_project.jpg" width="300">
-  </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-1"> 
+        {% include figure.liquid loading="eager" path="/assets/img/arduino_project.jpg" class="img-fluid rounded z-depth-1" max-width="300px" %}
+    </div>
+</div>
 </details>
 
 <details>
@@ -215,9 +224,11 @@ The program was featured in the book and included in the official supplementary 
 <p>
 Below is a preview of the application:
   </p>
-  <p align="center">
-    <img src="/assets/img/visual_sort_application.jpg" width="500">
-  </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-1"> 
+        {% include figure.liquid loading="eager" path="/assets/img/visual_sort_application.jpg" class="img-fluid rounded z-depth-1" max-width="70%" %}
+    </div>
+</div>
   <p>
 The GitHub repository can be found <a href="https://github.com/LabChameleon/VisualSort">here</a>.
   </p>
@@ -238,9 +249,11 @@ I developed a small Java application to visualize how space is partitioned using
 <p>
 A preview of the application can be seen here:
   </p>
-  <p align="center">
-    <img src="/assets/img/quad_tree_application.jpg" width="500">
-  </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-1"> 
+        {% include figure.liquid loading="eager" path="/assets/img/quad_tree_application.jpg" class="img-fluid rounded z-depth-1" max-width="70%" %}
+    </div>
+</div>
   <p>
 The GitHub repository is <a href="https://github.com/LabChameleon/QuadTree_Visualization/tree/main">here</a>.
   </p>
@@ -257,9 +270,11 @@ You can find the corresponding PDF <a href="/assets/pdf/Der_GJK_Algorithmus.pdf"
 As part of the project, I developed a Java tool that generates random two-dimensional convex sets and allows the user to arrange them on a plane.
 The application then visualizes the intermediate steps of the GJK algorithm to check for collisions, as shown below:
   </p>
-  <p align="center">
-    <img src="/assets/img/gjk_application.jpg" width="500">
-  </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-1"> 
+        {% include figure.liquid loading="eager" path="/assets/img/gjk_application.jpg" class="img-fluid rounded z-depth-1" max-width="70%" %}
+    </div>
+</div>
   <p>
 The GitHub repository can be found <a href="https://github.com/LabChameleon/GJKAlgorithm_Visualization">here</a>.
   </p>
