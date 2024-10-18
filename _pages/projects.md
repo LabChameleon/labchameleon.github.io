@@ -49,9 +49,9 @@ I worked through several of the exercises, and you can find my solutions in this
 <p>
 Below is a video demonstrating one of the exercises where I implemented a simple flocking model:
 </p>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-1"> 
-        {% include figure.liquid loading="eager" path="/assets/video/flocking_application.mov" class="vid-fluid rounded z-depth-1" max-width="400px" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0"> 
+        {% include figure.liquid loading="eager" path="/assets/video/flocking_application.mov" class="img-fluid rounded z-depth-1" controls=false autoplay=false %}
     </div>
 </div>
 </details>
