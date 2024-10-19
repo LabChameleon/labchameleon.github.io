@@ -10,15 +10,15 @@ nav_order: 6
 <p>
 So far, I have assisted my supervisors in several lectures and seminars, primarily in the course <i>Elements of Machine Learning and Data Science</i> during 2023 and 2024. 
 This introductory lecture is designed to help bachelor’s students build a solid foundation in machine learning methods and data science. 
-In addition to this, I co-organized a seminar on multi-objective optimization in 2023.
+In addition to this, I co-organised a seminar on multi-objective optimisation in 2023.
 </p>
 <p>
 I am also supervising both bachelor’s and master’s theses. 
-If you are interested in writing a thesis under my supervision, please feel free to reach out. 
+If you are interested in writing a thesis under my supervision, please feel free to reach out!
 I especially welcome students who already have their own ideas or topics they are interested about exploring! For more details and information about current thesis opportunities, please visit our chair's <a href="https://www.aim.rwth-aachen.de/thesis.html"> website </a>.
 </p>
 <p>
-Below, you can find some examples of ongoing and completed theses I have supervised.
+Below, you can find some examples of ongoing and completed theses supervised by me.
 </p>
 
 ### Ongoing:
@@ -39,7 +39,7 @@ Bachelor's Thesis
 <br>
 Bachelor's Thesis
 <br>
-I am co-supervising this super cool collaboration with our universities' <a href="https://www.sonnenwagen.org">Sonnenwagen Team</a>, developing a solar racing car. The thesis' aims to improve the efficiency of their car for an international 5 day race through Australia.
+I am co-supervising this super cool collaboration with Hadar Shavit and our universities' <a href="https://www.sonnenwagen.org">Sonnenwagen Team</a>, developing a solar racing car. The thesis' aims to improve the efficiency of their car for an international 5 day race through Australia.
 </p>
 
 <p>

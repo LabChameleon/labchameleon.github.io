@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a PhD student at RWTH Aachen University, working on Automated Machine Learning for Reinforcement Learning under the supervision of Holger Hoos. My research focuses on increasing the practical applicability of Reinforcement Learning by automating the many design decisions required to create effective policies.
+I’m a PhD student at RWTH Aachen University, working on Automated Machine Learning for Reinforcement Learning under the supervision of Holger Hoos. My research focuses on increasing the practical applicability of Reinforcement Learning by automating the many design decisions required to learn effective policies.
 
 With my research I want to bridge foundational research in Reinforcement Learning with the practical advances already developed in the Automated Machine Learning community. Ultimately, I hope this work will transform Reinforcement Learning into more of an engineering discipline, moving away from its reputation as a ‘black box.’
 

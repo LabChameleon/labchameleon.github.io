@@ -17,7 +17,7 @@ Following the <a href="https://iclr-blog-track.github.io/2022/03/25/ppo-implemen
 In the final stages, I compared my version with stable-baselines3 to resolve any performance differences and bugs.
 </p>
 <p>
-This project provided great insights into the inner workings of RL algorithms and the importance of attention to detail.
+This project provided great insights into the inner workings of RL algorithms and the (critical) importance of attention to detail.
 You can find the code in my <a href="https://github.com/LabChameleon/PPOScratch">GitHub repository</a>.
         </p>
 </details>
@@ -170,7 +170,7 @@ The dark green squares represent the fog of war, where the player has no informa
 <p>
 In the center of the map, a small skirmish can be seen between the red and blue armies.
 However, in its current state, the game remains somewhat dull, as the enemy lacks an AI and simply remains stationary to produce as many tanks as possible.
-I consider the AI future work ;)
+I consider the AI future work ;).
   </p>
 </details>
 
@@ -218,7 +218,7 @@ Here is an image of one of the project's setups:
   <summary>VisualSort</summary>
   <p>
 My Computer Science teacher wrote an official textbook for high school students, which was used in schools across the state of North-Rhine Westphalia to teach Computer Science.
-To support students' understanding, I developed a Java application that visualizes different sorting algorithms.
+To support students' understanding, I developed a Java application that visualises different sorting algorithms.
 The program was featured in the book and included in the official supplementary material.
 </p>
 <p>
@@ -244,7 +244,7 @@ To address this, I began exploring solutions for handling large numbers of agent
 <p>
 Quadtrees recursively partition the space into quadrants, so collisions only need to be checked between agents within the same leaf nodes.
 This drastically improves performance when dealing with large numbers of agents.
-I developed a small Java application to visualize how space is partitioned using Quadtrees and how this method can be applied for efficient collision detection.
+I developed a small Java application to visualise how space is partitioned using Quadtrees and how this method can be applied for efficient collision detection.
 </p>
 <p>
 A preview of the application can be seen here:
@@ -262,13 +262,13 @@ The GitHub repository is <a href="https://github.com/LabChameleon/QuadTree_Visua
 <details>
   <summary>Gilbert-Johnson-Keerthi Algorithm Visualisation</summary>
   <p>
-During school, I worked on a project focused on the Gilbert-Johnson-Keerthi algorithm for collision detection between arbitrary convex sets.
-My write-up on the project won first prize in a mathematics competition, which came with a $500 award.
+During school, I worked on a project focused on the Gilbert-Johnson-Keerthi (GJK) algorithm for collision detection between arbitrary convex sets.
+My write-up on the project won first prize in a mathematics competition, which came with a 500 Euro (roughly $500) award.
 You can find the corresponding PDF <a href="/assets/pdf/Der_GJK_Algorithmus.pdf">here</a>, though it is in German.
 </p>
 <p>
 As part of the project, I developed a Java tool that generates random two-dimensional convex sets and allows the user to arrange them on a plane.
-The application then visualizes the intermediate steps of the GJK algorithm to check for collisions, as shown below:
+The application then visualises the intermediate steps of the GJK algorithm to check for collisions, as shown below:
   </p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-1"> 

@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 Our joint work about the Automated RL Benchmark was accepted at the European Workshop of
-Reinforcement Learning this year and is now available at Arxiv. The benchmark contains lightning fast
-implementations of three common RL algorithms in JAX, build specifically to benchmark AutoRL methods in a consistent setting.
+Reinforcement Learning this year and is now available at Arxiv. 
+The benchmark contains lightning fast implementations of three common RL algorithms in JAX, build specifically to benchmark AutoRL methods in a consistent setting.
