@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am now part of the AI Grid initiative, aiming to strengthen the exchange and synergies between AI Doctorates in Germany.
+I am now part of the AI Grid initiative, which aims to strengthen the exchange and synergies between AI Doctorates in Germany.
