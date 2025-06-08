@@ -24,6 +24,18 @@ Below, you can find some examples of ongoing and completed theses supervised by 
 ### Ongoing:
 
 <p>
+<b>Luther, Tim:</b>
+<br>
+<i>The Role of the Dimension of Hardness in Reinforcement Learning Enviroments for Hyperparameter Optimisation Approaches</i>
+<br>
+Master's Thesis
+</p>
+
+---
+
+### Past:
+
+<p>
 <b>Ebbers, Michael:</b>
 <br>
 <i>On the Importance of Noise Sources for the Variability of Hyperparameter Performance in
@@ -49,11 +61,6 @@ I am co-supervising this super cool collaboration with Hadar Shavit and our univ
 <br>
 Master's Thesis
 </p>
-
-
----
-
-### Past:
 
 <p>
 <b>Rosa, Tobias:</b> 

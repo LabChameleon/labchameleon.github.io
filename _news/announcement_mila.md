@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I have been awarded a nine-month scholarship by the German Academic Exchange Service (DAAD) and will be joining MILA in Montreal as an incoming student starting in September. I will be working in Professor Castro’s laboratory on the dependencies between RL hyperparameters and environment properties. Super excited to go!
+I have been awarded a nine-month scholarship by the German Academic Exchange Service (DAAD) and will be joining MILA in Montreal as an incoming student starting in September. I will be working in Professor Castro’s lab on the dependencies between RL hyperparameters and environment properties. Super excited to go!
 
