@@ -28,7 +28,7 @@ Master's Thesis
 </p>
 
 <p>
-<b>Stamatis Chrysanthidis:</b>
+<b>Chrysanthidis, Stamatis:</b>
 <br>
 <i>Cost-Aware Bayesian Optimization in Reinforcement Learning</i>
 <br>
