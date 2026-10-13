@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 <p>
-So far, I have assisted my supervisors in several lectures and seminars, primarily in the course <i>Elements of Machine Learning and Data Science</i> during 2023, 2024 and 2025. This introductory lecture is designed to help bachelor’s students build a solid foundation in machine learning methods and data science.  In addition to this, I co-organised a seminar on multi-objective optimisation in 2023 and I am currently co-organising a practical lab on AI in Games.
+So far, I have assisted my supervisors in several lectures and seminars, primarily in the course <i>Elements of Machine Learning and Data Science</i> during 2023, 2024, 2025 and 2026. This introductory lecture is designed to help bachelor’s students build a solid foundation in machine learning methods and data science.  In addition to this, I co-organised a seminar on multi-objective optimisation in 2023 and a practical lab on AI in Games in 2025.
 </p>
 <p>
 I am supervising both bachelor’s and master’s theses. If you are interested in writing a thesis under my supervision, please feel free to reach out! For more details and information about current thesis opportunities, please visit our chair's <a href="https://www.aim.rwth-aachen.de/thesis.html"> website </a>.
@@ -18,6 +18,18 @@ Below, you can find some examples of ongoing and completed theses supervised by 
 </p>
 
 ### Ongoing:
+
+<p>
+<b>Stadermann, Erik:</b>
+<br>
+<i>Impact of Reward Density on Reinforcement Learning Hyperparameter Sensitivity</i>
+<br>
+Bachelor's Thesis
+</p>
+
+---
+
+### Past:
 
 <p>
 <b>Luther, Tim:</b>
@@ -35,10 +47,6 @@ Master's Thesis
 Master's Thesis
 </p>
 
----
-
-### Past:
-
 <p>
 <b>Ebbers, Michael:</b>
 <br>
@@ -46,6 +54,8 @@ Master's Thesis
 Reinforcement Learning</i>
 <br>
 Bachelor's Thesis, 2025
+<br>
+Awarded the Schöneborn Prize at RWTH Aachen University in June 2026 for an outstanding bachelor's thesis.
 </p>
 
 <p>
