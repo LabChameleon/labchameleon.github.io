@@ -9,6 +9,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Independent Research Visitor
+      institution: Mila - Quebec AI Institute, Montreal, Canada
+      year: 2025-2026
+      description:
+        - Conducted research on automated RL in collaboration with Prof. Pablo Samuel Castro
+        - Fully funded ten-month research visit through a competitive DAAD IFI Fellowship
     - title: Scientific Researcher / PhD Student
       institution: AI Methodology, RWTH Aachen University
       year: 2023 - now
@@ -61,6 +67,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025-2026
+      items:
+        - DAAD IFI Fellowship, fully funding a ten-month research visit at Mila, Montreal
     - year: 2019-2022
       items:
         - Receiving the Porsche and Deutschland Stipendium scholarship
